@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: June 12, 2024
+- Class Date: Sep 4, 2024
 - Facilitator: @mitsuzono
 
 ## Class Resources
